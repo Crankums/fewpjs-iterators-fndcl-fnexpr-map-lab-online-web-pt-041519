@@ -16,4 +16,3 @@ const titleCased = (string) => {
     const fart = (words => word[0].toUpperCase + word.slice(1))
     return fart.join(' ')
   }
-}
